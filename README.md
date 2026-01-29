@@ -1,2 +1,2 @@
-# atlasfoundation-releases
-Public releases for Atlas Foundation monitoring software.
+# netoriafoundation-releases
+Public releases for Netoria Foundation monitoring software.
